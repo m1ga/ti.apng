@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 4
+architectures: arm64-v8a armeabi-v7a x86 x86_64
+description: ti.apng
+author: Michael Gangolf
+license: MIT
+copyright: Copyright (c) 2021 by Michael Gangolf
+
+# these should not be edited
+name: ti.apng
+moduleid: ti.apng
+guid: 29e424d8-514a-4a36-8d5f-7206b11da1ab
+platform: android
+minsdk: 9.0.0.GA

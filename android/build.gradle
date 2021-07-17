@@ -1,0 +1,7 @@
+repositories {
+  maven { url "https://jitpack.io" }
+ }
+
+ dependencies {
+  implementation 'com.github.oupson:Kapng-Android:1.0.10'
+ }
